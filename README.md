@@ -1,4 +1,4 @@
-# 🛡️ FDAAC-CR: FDAAC-CR: Practical Delegatable Attribute-Based Anonymous Credentials with Fine-grained Delegation Management and Chainable Revocation
+# 🛡️FDAAC-CR: Practical Delegatable Attribute-Based Anonymous Credentials with Fine-grained Delegation Management and Chainable Revocation
 
 This repository provides the implementation of **FDAAC-CR**, a novel Delegatable Anonymous Credential (DAC) system with **fine-grained delegation management** and **chainable revocation**.
 
