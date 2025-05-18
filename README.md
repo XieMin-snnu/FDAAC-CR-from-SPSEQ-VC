@@ -14,7 +14,7 @@ FDAAC-CR builds upon a new cryptographic primitive we propose: **Structure-Prese
   - Efficient **chainable revocation** across delegation hierarchies
   - Practical performance: proof size is independent of total attributes
 - **Evaluation**:
-  - Benchmarks comparing FDAAC-CR, Practical DAC From SPSEQ (Practical Delegatable Anonymous Credentials From Equivalence Class Signatures, PETS23), and PS-DAC (How to Securely Delegate and Revoke Partial  Authorization Credentials, TDSC24)
+  - Benchmarks comparing FDAAC-CR, Practical DAC From SPSEQ (Practical Delegatable Anonymous Credentials From Equivalence Class Signatures, PETS23), and PS-DAC (How to Securely Delegate and Revoke Partial  Authorization Credentials, TDSC25)
   - Reproductions of relevant baseline re-implementations (`dac.py`, `ps_dac.py`)
 
 ## 📦 Installation
@@ -68,7 +68,7 @@ DAC-from-EQS-main-TIFS/
 │   ├── test_time_acc.py
 │   ├── test_time_dac.py            # DAC from SPSEQ-UC benchmark (PETS23)
 │   ├── test_time_dac_cr.py         # FDAAC-CR benchmark
-│   ├── test_time_ps_dac.py         # PS-DAC benchmark (TDSC24)
+│   ├── test_time_ps_dac.py         # PS-DAC benchmark (TDSC25)
 │   └── test_time_spseq_vc.py
 │
 ├── core/
